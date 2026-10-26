@@ -1,4 +1,4 @@
-# Hola, soy Diony Alexandro 👋
+# Diony Alexandro Rosario
 
 **Aspirante a Data Analyst / BI Analyst** · Licenciatura en Informática, Universidad Autónoma de Santo Domingo (UASD), graduación en diciembre de 2026 · República Dominicana
 
