@@ -1,6 +1,6 @@
 # Hola, soy Diony Alexandro 👋
 
-**Aspirante a Data Analyst / BI Analyst** · Estudiante de Informática en la Universidad Autónoma de Santo Domingo (UASD) · República Dominicana
+**Aspirante a Data Analyst / BI Analyst** · Licenciatura en Informática, Universidad Autónoma de Santo Domingo (UASD), graduación en diciembre de 2026 · República Dominicana
 
 Me gusta convertir datos desordenados en información clara para tomar decisiones. Vengo del desarrollo web y hoy me enfoco en el análisis de datos: limpieza y transformación con Power Query, consultas con SQL y visualización con Power BI.
 
