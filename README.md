@@ -1,8 +1,8 @@
 # Diony Alexandro Rosario
 
-**Aspirante a Data Analyst / BI Analyst** · Licenciatura en Informática, Universidad Autónoma de Santo Domingo (UASD), graduación en diciembre de 2026 · República Dominicana
+**Data Analyst / BI Analyst** · Licenciatura en Informática, Universidad Autónoma de Santo Domingo (UASD), graduación en diciembre de 2026 · República Dominicana
 
-Me gusta convertir datos desordenados en información clara para tomar decisiones. Vengo del desarrollo web y hoy me enfoco en el análisis de datos: limpieza y transformación con Power Query, consultas con SQL y visualización con Power BI.
+Convierto datos desordenados en información clara para tomar decisiones. En mi trabajo analizo datos a diario: limpio y transformo información con Excel y Power Query, y automatizo procesos con VBA. Hoy amplío ese trabajo con SQL, Power BI y Python, y tengo experiencia en desarrollo web con Django y Angular.
 
 ---
 
