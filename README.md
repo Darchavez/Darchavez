@@ -1,4 +1,4 @@
-# Diony Alexandro Rosario
+# Diony Alexandro Rosario Chávez
 
 **Data Analyst / BI Analyst** · Licenciatura en Informática, Universidad Autónoma de Santo Domingo (UASD)· República Dominicana
 
